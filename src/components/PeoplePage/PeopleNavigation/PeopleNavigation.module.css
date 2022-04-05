@@ -2,11 +2,7 @@
   display: flex;
   justify-content: center;
 }
-.buttons {
-  /* margin: var(--spacing-small); */
-  cursor: pointer;
-}
 
-.link {
+.buttons {
   margin: var(--spacing-small);
 }
